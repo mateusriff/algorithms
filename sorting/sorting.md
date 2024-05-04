@@ -28,4 +28,9 @@ void insertion_sort(int arr[], int length)
 ```
 Check out a working implementation [here](insertion_sort.c).
 
-This algorith is n<sup>2</sup> in time complexity. Despite this, it can be more efficient than other sorting algorithms like Merge Sort, but only when sorting _very small_ sequences.
+This algorith is n<sup>2</sup> in time-complexity. Despite this, it can be more efficient than other sorting algorithms like Merge Sort, but only when sorting _very small_ sequences. We can see that in Figure 1., which compares the time-complexity of Insertion Sort with Merge Sort and Binary Sort. Notice how for a smaller input sizes (the size of the sequence or array), Insertion Sort outperforms Merge Sort.
+
+**Figure 1.**
+
+![image](https://github.com/mateusriff/algorithms/assets/105450782/c1fc16ac-a6fd-4b11-aa6a-b3cbdff0651b)
+
