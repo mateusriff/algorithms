@@ -26,6 +26,6 @@ void insertion_sort(int arr[], int length)
     }
 }
 ```
-Check out a working implementation [here!](sorting\insertion_sort.c)
+Check out a working implementation [here!](sorting/insertion_sort.c)
 
 Notice that there are nested loops. This algorithm, in time-complexity, is n^2. It is only more efficient than other sorting algorithms like merge sort when dealing with _very small_ sequences.
