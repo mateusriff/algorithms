@@ -2,7 +2,7 @@
 
 A sorting algorithm takes as input a sequence of `n` numbers (a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>) and produces as output a permutation or reordering (a'<sub>1</sub>, a'<sub>2</sub>, ..., a'<sub>n</sub>) of the sequence, such that a'<sub>1</sub> <= a'<sub>2</sub> <= ... <= a'<sub>n</sub>.
 
-There are plenty of sorting algorithms out there, which vary in time and space efficiency. Some are more efficient than others when dealing with small sequences, others are vastly superior with longer sequences. Below, there are a couple of them. 
+There are plenty of sorting algorithms out there, which vary in time and space complexity. Some are more efficient than others when dealing with small sequences, others are vastly superior with longer sequences. Below, there are a couple of them. 
 
 1. Insertion Sort
 
